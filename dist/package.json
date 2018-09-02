@@ -1,0 +1,10 @@
+{
+  "name": "order-checker",
+  "version": "0.0.1",
+  "dependencies": {
+    "twilio": "*",
+    "cheerio": "*",
+    "request-promise": "*",
+    "request": "*"
+  }
+}
