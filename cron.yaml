@@ -1,0 +1,4 @@
+cron:
+    - description: "OLKB Order Checker Job"
+      url: /order-checker
+      schedule: every day 17:00
