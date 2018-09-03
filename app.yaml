@@ -3,10 +3,10 @@ api_version: 1
 threadsafe: true
 
 handlers:
-- url: /.*
-  script: main.app
+  - url: /.*
+    script: main.app
 
 skip_files:
   - ^node_modules/.*
-  - ^ve/.*
   - ^.git/.*
+  - ^.gitignore

@@ -1,6 +1,6 @@
 from google.appengine.ext import ndb
 """ 
-Reads in Google Project datastores key-value
+Reads in Google Cloud project datastores key-value
 
 Taken from https://stackoverflow.com/a/35261091
 """
